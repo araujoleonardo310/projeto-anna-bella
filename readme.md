@@ -9,7 +9,7 @@
 
 ## Status ✌️
 
-### Projeto concluído
+### Projeto concluído 🚀
 
 ## Recursos & Ferramentas 
 
@@ -32,41 +32,39 @@
 
 <p>
 
-Veja o projeto original do professor 😄<br>
-
-<a href="https://drive.google.com/file/d/1xShH23ALBsKFKIQ4O5ANDrPx9sE2-o53/view?usp=sharing">🔗Clieque aqui!</a>
+Veja o projeto original do professor 😄 <a href="https://drive.google.com/file/d/1xShH23ALBsKFKIQ4O5ANDrPx9sE2-o53/view?usp=sharing">🔗Clique aqui!</a>
 
 </p>
     
 <img src="inform/menu.gif">
 
-##**Apliquei efeitos ao menu de navegação.**
+## **Apliquei efeitos ao menu de navegação.**
 
 <hr>
 
 <img src="inform/rodape.gif">
  
-##**Estilizei rodapé com borda superior, formatação e símbolo.**
+## **Estilizei rodapé com borda superior, formatação e símbolo.**
 
 <hr>
 
 
 <img src="inform/form.gif">
 
-###**Implantei formulário para captação de Leeds.**
+### **Implantei formulário para captação de Leeds.**
 
 <hr>
 
 
 <img src="inform/parag.gif">
 
-##**Coloquei espaço no título e início do texto.**
+## **Coloquei espaço no título e início do texto.**
 
 <hr>
 
 <img src="inform/borda.gif">
 
-##***Adicionei borda lateral nas imagens.**
+## ***Adicionei borda lateral nas imagens.**
 
 
 ## 🔗Créditos & Refências 🐧🖖
