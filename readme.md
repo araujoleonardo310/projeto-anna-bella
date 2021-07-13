@@ -9,8 +9,7 @@
 
 ## Status ✌️
 
-**Projeto concluído**
-
+### Projeto concluído
 
 ## Recursos & Ferramentas 
 
@@ -41,31 +40,33 @@ Veja o projeto original do professor 😄<br>
     
 <img src="inform/menu.gif">
 
-**Apliquei efeitos ao menu de navegação.**
+##**Apliquei efeitos ao menu de navegação.**
 
+<hr>
 
 <img src="inform/rodape.gif">
-
  
-**Estilizei rodapé com borda superior, formatação e símbolo.**
+##**Estilizei rodapé com borda superior, formatação e símbolo.**
+
+<hr>
 
 
 <img src="inform/form.gif">
 
+###**Implantei formulário para captação de Leeds.**
 
-**Implantei formulário para captação de Leeds.**
+<hr>
 
 
 <img src="inform/parag.gif">
 
+##**Coloquei espaço no título e início do texto.**
 
-**Coloquei espaço no início dos paragráfos.**
-
+<hr>
 
 <img src="inform/borda.gif">
 
-
-**Adicionei borda lateral nas imagens.**
+##***Adicionei borda lateral nas imagens.**
 
 
 ## 🔗Créditos & Refências 🐧🖖
@@ -74,8 +75,8 @@ Veja o projeto original do professor 😄<br>
 
 ## Autor do projeto 👊
 
-Leonardo Araújo <br>
-Universiário 🧑‍🎓 de Sistemas de Informação 💻
+### Leonardo Araújo <br>
+**Universiário 🧑‍🎓 de Sistemas de Informação 💻**
 <hr>
 
 ***"O prazer da vida está em descobrir novas maneiras de ser mais feliz ✨"*** 
