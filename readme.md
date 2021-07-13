@@ -22,16 +22,18 @@
 
 ## O quê aprendi 🧑‍💻
 
-* Estilização<br>
-* Um pouco de semâtica<br>
-* Pratiquei versionamento<br>
-* Boas práticas de desenvolvedor (comentários no código)
+* Estilização de página<br>
+* Noções de semânticas<br>
+* Um pouco de versionamento<br>
+* Boas práticas(comentários no código) e conhecimento de novos recursos para desenvolvimento 
+* Leitura e pesquisa de documentções
+* Desenvolvimento de criatividade
 
 ## O que fiz diferente e complementei ao projeto
 
 <p>
 
-Conheça o projeto original do professor 😄<br>
+Veja o projeto original do professor 😄<br>
 
 <a href="https://drive.google.com/file/d/1xShH23ALBsKFKIQ4O5ANDrPx9sE2-o53/view?usp=sharing">🔗Clieque aqui!</a>
 
@@ -45,13 +47,13 @@ Conheça o projeto original do professor 😄<br>
 <img src="inform/rodape.gif">
 
  
-**Estilizei rodapé com borda superior, stylo de formatação e um símbolo.**
+**Estilizei rodapé com borda superior, formatação e símbolo.**
 
 
 <img src="inform/form.gif">
 
 
-**Implantei formulário de captação de Leeds.**
+**Implantei formulário para captação de Leeds.**
 
 
 <img src="inform/parag.gif">
