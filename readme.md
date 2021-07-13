@@ -38,36 +38,36 @@ Veja o projeto original do professor 😄 <a href="https://drive.google.com/file
     
 <img src="inform/menu.gif">
 
-## **Apliquei efeitos ao menu de navegação.**
+## Apliquei efeitos ao menu de navegação.
 
 <hr>
 
 <img src="inform/rodape.gif">
  
-## **Estilizei rodapé com borda superior, formatação e símbolo.**
+## Estilizei rodapé com borda superior, formatação e símbolo.
 
 <hr>
 
 
 <img src="inform/form.gif">
 
-### **Implantei formulário para captação de Leeds.**
+### Implantei formulário para captação de Leeds.
 
 <hr>
 
 
 <img src="inform/parag.gif">
 
-## **Coloquei espaço no título e início do texto.**
+## Coloquei espaço no título e início do texto.
 
 <hr>
 
 <img src="inform/borda.gif">
 
-## ***Adicionei borda lateral nas imagens.**
+## Adicionei borda lateral nas imagens.
 
 
-## 🔗Créditos & Refências 🐧🖖
+## 🐧🖖 Créditos & 🔗 Refências 
 
 [- Curso de Web desenvolvedor 2021 +20 projetos](https://www.udemy.com/share/101WqG2@Pm1KfUtjSVcKdEFLAHJOVBRuSlc=/)
 
