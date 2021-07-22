@@ -5,11 +5,6 @@
 <a href="https://araujoleonardo310.github.io/projeto-anna-bella/">🔗Clique aqui!</a>
 
 ## Sobre
-> Segundo projeto do curso de Web Desenvolvedor 2021 tendo como foque a criação de um site para divulgar ao público o perfil e trabalhos da modelo Anna Bella.
-
-## Status ✌️
-
-### Projeto concluído 🚀
 
 ## Recursos & Ferramentas 
 
