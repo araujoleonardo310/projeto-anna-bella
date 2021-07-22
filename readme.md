@@ -6,6 +6,8 @@
 
 ## Sobre
 
+>Segundo projeto do curso de Desenvolvedor Web 2021, no qual focou em me ensinar a criação de um site para à modelo Anna Belle
+
 ## Recursos & Ferramentas 
 
 * Git<br>
