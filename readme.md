@@ -26,7 +26,7 @@
 * Um pouco de versionamento<br>
 * Boas práticas(comentários no código) e conhecimento de novos recursos para desenvolvimento 
 * Leitura e pesquisa de documentções
-* Desenvolvimento de criatividade
+
 
 ## O que fiz diferente e complementei ao projeto
 
