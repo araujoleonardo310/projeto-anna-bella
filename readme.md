@@ -23,10 +23,6 @@
 * Leitura e pesquisa de documentções
 
 
-## O que fiz diferente e complementei ao projeto
-
-<p>
-
 Veja o projeto original do professor 😄 <a href="https://drive.google.com/file/d/1xShH23ALBsKFKIQ4O5ANDrPx9sE2-o53/view?usp=sharing">🔗Clique aqui!</a>
 
 </p>
