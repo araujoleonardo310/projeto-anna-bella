@@ -22,8 +22,10 @@
 * Boas práticas(comentários no código) e conhecimento de novos recursos para desenvolvimento 
 * Leitura e pesquisa de documentções
 
+## Ideas acrescentadas por mim 🤩
 
-Veja o projeto original do professor 😄 <a href="https://drive.google.com/file/d/1xShH23ALBsKFKIQ4O5ANDrPx9sE2-o53/view?usp=sharing">🔗Clique aqui!</a>
+<p>
+Veja o projeto original do professor 😄 <a href="https://drive.google.com/file/d/1xShH23ALBsKFKIQ4O5ANDrPx9sE2-o53/view?usp=sharing">🔗Clique aqui!</a> para compreender as mudanças.
 
 </p>
     
