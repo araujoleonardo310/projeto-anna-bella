@@ -62,7 +62,7 @@ Veja o projeto original do professor 😄 <a href="https://drive.google.com/file
 ## Adicionei borda lateral nas imagens.
 
 
-## 🐧🖖 Créditos & 🔗 Refências 
+## 🐧🖖 Créditos & 🔗 Referências 
 
 [- Curso de Web desenvolvedor 2021 +20 projetos](https://www.udemy.com/share/101WqG2@Pm1KfUtjSVcKdEFLAHJOVBRuSlc=/)
 
