@@ -1,4 +1,4 @@
-<h1>Projeto site modelo Anna Belle 💻😉</h1>
+<h1>Projeto Anna Belle 💻😉</h1>
 
 <img src="inform/demost.gif" aling="center">
 
@@ -6,25 +6,35 @@
 
 ## Sobre
 
->Segundo projeto do curso de Desenvolvedor Web 2021, no qual focou em me ensinar a criação de um site para à modelo Anna Belle
+>Segundo projeto do curso de Desenvolvedor Web 2021. Neste projeto o foco volta-se na criação de um web site para divulgação e trabalhos feitos por uma modelo.
 
 ## Recursos & Ferramentas 
 
-* Git<br>
-* Github<br>
-* Visual Studio Code<br>
-* Html<br>
+* Git
+
+* Github
+
+* Visual Studio Code
+
+* Html
+
 * CSS
 
 ## O quê aprendi 🧑‍💻
 
-* Estilização de página<br>
-* Noções de semânticas<br>
-* Um pouco de versionamento<br>
+* Layout
+
+* Estilização de página
+
+* Noções de semânticas
+
+* Um pouco de versionamento
+
 * Boas práticas(comentários no código) e conhecimento de novos recursos para desenvolvimento 
+
 * Leitura e pesquisa de documentções
 
-## Ideas acrescentadas por mim 🤩
+## Ideias acrescentadas por mim 🤩
 
 <p>
 Veja o projeto original do professor 😄 <a href="https://drive.google.com/file/d/1xShH23ALBsKFKIQ4O5ANDrPx9sE2-o53/view?usp=sharing">🔗Clique aqui!</a> para compreender as mudanças.
